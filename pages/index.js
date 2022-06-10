@@ -14,6 +14,10 @@ export default function Home() {
       <h1>
         Spotify App
       </h1>
+
+      <h2>
+        Added a new branch development branch
+      </h2>
     </div>
   )
 }
